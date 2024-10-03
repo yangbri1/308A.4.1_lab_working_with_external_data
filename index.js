@@ -1,3 +1,6 @@
+/* NOTE: Temporary work around for CodeSandbox 502 error is just to copy the CodeSandbox
+ and paste it into the new template. Then preview will be able to work 
+ https://github.com/codesandbox/codesandbox-client/issues/8442 */
 // ########################################################################
 // # Lab 308A.4.1: Working with External Data
 // # Brian Yang
